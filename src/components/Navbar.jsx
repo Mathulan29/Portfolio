@@ -5,7 +5,7 @@ import Logo from "../assets/Logo.png"
 import { FaHome, FaCode, FaGraduationCap, FaBook, FaEnvelope } from 'react-icons/fa';
 
 const navItems = [
-    { label: 'Home', path: '/', icon: <FaHome /> },
+    { label: 'Home', path: '/Portfolio', icon: <FaHome /> },
     { label: 'Projects', path: '/projects', icon: <FaCode /> },
     { label: 'Education', path: '/education', icon: <FaGraduationCap /> },
     { label: 'Exploring', path: '/learning', icon: <FaBook /> },
