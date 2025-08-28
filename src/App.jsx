@@ -69,7 +69,7 @@ function App() {
         <main className="flex-grow px-6 py-8">
           <AnimatePresence mode="wait">
             <Routes>
-              <Route path="/Portfolio" element={
+              <Route path="/" element={
                 <PageTransition>
                   <Home />
                 </PageTransition>

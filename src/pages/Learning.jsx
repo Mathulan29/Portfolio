@@ -5,7 +5,7 @@ import { FaBook, FaCode, FaRocket, FaGraduationCap, FaLightbulb, FaBrain, FaChar
 export default function Learning() {
     const goals = [
         {
-            title: "Adavanced Java",
+            title: "Advanced Java",
             target: "Dec 2025",
             status: "In Progress",
             icon: <FaGraduationCap />
