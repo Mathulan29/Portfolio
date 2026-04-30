@@ -132,7 +132,7 @@ export default function Home() {
                                 animate={{ opacity: 1, y: 0 }}
                                 transition={{ delay: 0.4 }}
                             >
-                                Aspiring Information Systems student and Software Engineer
+                                Aspiring Information Systems student and Software Quality Assurance Engineer
                             </motion.p>
                             <motion.p
                                 className="text-xl text-gray-300 leading-relaxed font-light tracking-wide"
